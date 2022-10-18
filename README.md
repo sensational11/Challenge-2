@@ -7,4 +7,4 @@ This is the repository for challenge 2. My motivation for building this assignme
 You will need to utilize HTML & CSS. 
 
 ## Credits
-W3SCHOOLS, MDN DOCS, 
+W3SCHOOLS, MDN DOCS, PlaceHolder.com
